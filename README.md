@@ -1,7 +1,7 @@
-# Z File Sharing (Modified)
+# Z File Sharing 
 
 ## Overview
-Z File Sharing (Modified) is a lightweight web application designed to facilitate secure and efficient file sharing between users. The application is built using Node.js for the backend and provides a clean and intuitive front-end interface using HTML, CSS, and JavaScript.
+Z File Sharing is a lightweight web application designed to facilitate secure and efficient file sharing between users. The application is built using Node.js for the backend and provides a clean and intuitive front-end interface using HTML, CSS, and JavaScript.
 
 ## Features
 - **Real-time File Sharing**: Allows users to share files in real-time with minimal setup.
